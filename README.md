@@ -60,6 +60,7 @@ Social media
     - GossipCop https://github.com/KaiDMML/FakeNewsNet/tree/master/dataset
 - Test
     - ISOT (Social Portion)
+Some of the mentioned datasets are in 'Datasets' folder in this repo. The rest are publicly available and referenced in the respected article (see the abovementioned article reference).
 
 | Domain   | For Training                              | For Testing (Whole System) |
 |----------|-------------------------------------------|----------------------------|
