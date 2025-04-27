@@ -1,8 +1,4 @@
 # TransferLearningFND
-ProFineLlama: Prompt-Fine-Tuned Llama 2 for Fake News Detection
-
-# Article Reference: 
-M. Q. Alnabhan and P. Branco, "ProFineLlama: A Prompt and Fine-Tuned Transfer Learning Approach for Multi-Domain Fake News Detection," in Foundations and Practice of Security. FPS 2024, Lecture Notes in Computer Science, Springer, Cham, 2024. [Accepted]
 
 
 **Repository for training and results for the proposed ProFineLlama models research**
